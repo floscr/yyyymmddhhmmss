@@ -1,6 +1,6 @@
 {
   "name": "yyyymmddhhmmss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Super simple module that returns current date in yyyymmddhhmmss",
   "main": "index.js",
   "repository": "https://github.com/floscr/yyyymmddhhmmss",
